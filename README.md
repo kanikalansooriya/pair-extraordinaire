@@ -1,2 +1,2 @@
 ## Testing Pair Extraordinaire Achievement
-Co-authored-by: Boyfriend Name <284011244+kavishkamadushan47-pixel@users.noreply.github.com>
+Co-authored-by: <284011244+kavishkamadushan47-pixel@users.noreply.github.com>
